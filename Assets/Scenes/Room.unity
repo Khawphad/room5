@@ -1171,6 +1171,7 @@ GameObject:
   m_Component:
   - component: {fileID: 32491524}
   - component: {fileID: 32491523}
+  - component: {fileID: 32491525}
   m_Layer: 0
   m_Name: Point Light (29)
   m_TagString: Untagged
@@ -1258,6 +1259,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &32491525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 32491522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &36161479
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2025,7 +2049,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 611f3603343b4eb44bf911c8046aac46, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3198,6 +3222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 70570580}
   - component: {fileID: 70570579}
+  - component: {fileID: 70570581}
   m_Layer: 0
   m_Name: Point Light (1)
   m_TagString: Untagged
@@ -3285,6 +3310,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &70570581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 70570578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &70676239
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4024,6 +4072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 95961067}
   - component: {fileID: 95961066}
+  - component: {fileID: 95961068}
   m_Layer: 0
   m_Name: Point Light (37)
   m_TagString: Untagged
@@ -4111,6 +4160,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &95961068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 95961065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &97004383
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4451,6 +4523,7 @@ GameObject:
   m_Component:
   - component: {fileID: 101676285}
   - component: {fileID: 101676284}
+  - component: {fileID: 101676286}
   m_Layer: 0
   m_Name: Point Light (9)
   m_TagString: Untagged
@@ -4538,6 +4611,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &101676286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 101676283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &101803354
 GameObject:
   m_ObjectHideFlags: 0
@@ -4998,7 +5094,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 8defce28369b55d4c8378a5215f2f638, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5217,6 +5313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 110942187}
   - component: {fileID: 110942186}
+  - component: {fileID: 110942188}
   m_Layer: 0
   m_Name: Point Light (15)
   m_TagString: Untagged
@@ -5304,6 +5401,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &110942188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 110942185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &112702143
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5515,7 +5635,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 385f62a8258de9246b3047e930261aad, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -7151,7 +7271,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
 --- !u!4 &140135482 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 9027060762515830505, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6100831814900944802, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
   m_PrefabInstance: {fileID: 140135481}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &143441725
@@ -7506,6 +7626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 147445900}
   - component: {fileID: 147445899}
+  - component: {fileID: 147445901}
   m_Layer: 0
   m_Name: Point Light (42)
   m_TagString: Untagged
@@ -7593,6 +7714,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &147445901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147445898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &149216999
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8089,7 +8233,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: d17165c2fee4ec145abde8e3fad419d2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8582,7 +8726,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
 --- !u!4 &167356515 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 9027060762515830505, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6100831814900944802, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
   m_PrefabInstance: {fileID: 167356514}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &168221783
@@ -9981,6 +10125,7 @@ GameObject:
   m_Component:
   - component: {fileID: 185652160}
   - component: {fileID: 185652159}
+  - component: {fileID: 185652161}
   m_Layer: 0
   m_Name: Point Light (39)
   m_TagString: Untagged
@@ -10068,6 +10213,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &185652161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185652158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &190013255
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10704,7 +10872,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: dff76457cf37e7c43939389d97a55b3b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11248,7 +11416,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 0d5cd84043067244bb41de0b996cf92e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12291,7 +12459,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: ea7940588c919f640abad45890ad6607, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12451,6 +12619,7 @@ GameObject:
   m_Component:
   - component: {fileID: 242673371}
   - component: {fileID: 242673370}
+  - component: {fileID: 242673372}
   m_Layer: 0
   m_Name: Point Light (46)
   m_TagString: Untagged
@@ -12538,6 +12707,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 89, z: 0}
+--- !u!114 &242673372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242673369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &243084046
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12865,7 +13057,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 5c6d90685375cf742b549c5a6e58a1d1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13574,7 +13766,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: e2fd72c75d6bd02409648853c6665bcd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13762,6 +13954,7 @@ GameObject:
   m_Component:
   - component: {fileID: 284280989}
   - component: {fileID: 284280988}
+  - component: {fileID: 284280990}
   m_Layer: 0
   m_Name: Point Light (19)
   m_TagString: Untagged
@@ -13849,6 +14042,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &284280990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284280987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &284385591
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14516,7 +14732,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 74decb8b8d69cab49bcaa2befe834b88, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -14639,7 +14855,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 2b506c715c879de44a72228a85da3c80, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16293,7 +16509,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 317f5bc619519104c85845f1e4eff6f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16889,7 +17105,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
 --- !u!4 &340901925 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 9027060762515830505, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6100831814900944802, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
   m_PrefabInstance: {fileID: 340901924}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &341435460
@@ -17405,7 +17621,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: f3c26139e2667fc4586a14d043fa6f5a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -17756,6 +17972,7 @@ GameObject:
   m_Component:
   - component: {fileID: 356637890}
   - component: {fileID: 356637889}
+  - component: {fileID: 356637891}
   m_Layer: 0
   m_Name: Point Light (25)
   m_TagString: Untagged
@@ -17843,6 +18060,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &356637891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 356637888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &357001649
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19717,6 +19957,7 @@ GameObject:
   m_Component:
   - component: {fileID: 386352054}
   - component: {fileID: 386352053}
+  - component: {fileID: 386352055}
   m_Layer: 0
   m_Name: Point Light (41)
   m_TagString: Untagged
@@ -19804,6 +20045,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &386352055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386352052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &393661141
 GameObject:
   m_ObjectHideFlags: 0
@@ -20252,6 +20516,7 @@ GameObject:
   m_Component:
   - component: {fileID: 405062262}
   - component: {fileID: 405062261}
+  - component: {fileID: 405062263}
   m_Layer: 0
   m_Name: Point Light (10)
   m_TagString: Untagged
@@ -20339,6 +20604,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &405062263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 405062260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &406975828
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20423,6 +20711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 407854055}
   - component: {fileID: 407854054}
+  - component: {fileID: 407854056}
   m_Layer: 0
   m_Name: Point Light (43)
   m_TagString: Untagged
@@ -20510,6 +20799,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &407854056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 407854053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &409019056
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20964,6 +21276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 419715005}
   - component: {fileID: 419715004}
+  - component: {fileID: 419715006}
   m_Layer: 0
   m_Name: Point Light (2)
   m_TagString: Untagged
@@ -21051,6 +21364,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!114 &419715006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419715003}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &419895225
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21262,7 +21598,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 8e8120352ac8be645a17235e3048e0ec, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -22946,7 +23282,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 428fedc45df1c6a45adbb473ce2af526, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -24354,6 +24690,7 @@ GameObject:
   m_Component:
   - component: {fileID: 496333611}
   - component: {fileID: 496333610}
+  - component: {fileID: 496333612}
   m_Layer: 0
   m_Name: Point Light (14)
   m_TagString: Untagged
@@ -24441,6 +24778,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &496333612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 496333609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &496343334
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25776,7 +26136,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: f37a39816e9c3754b8fa44ef06b9800a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -26732,7 +27092,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 9ddc9d4dda7e08b4b94c0f20fd64289c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27533,7 +27893,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: f39f75c0910df434bbb73b3942342afd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27715,7 +28075,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 0878c443d1b6aee4eb5a416a79cadd68, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28294,7 +28654,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: e228616c87327ee458c1bebee0c92c51, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28640,7 +29000,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: b425a1a0f1b38944fb6cd084f5b894d4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -28695,6 +29055,7 @@ GameObject:
   m_Component:
   - component: {fileID: 592778862}
   - component: {fileID: 592778861}
+  - component: {fileID: 592778863}
   m_Layer: 0
   m_Name: Point Light (23)
   m_TagString: Untagged
@@ -28782,6 +29143,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 176.899, y: 180, z: 0}
+--- !u!114 &592778863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 592778860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &592967981
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29233,7 +29617,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 7b91543a99f89624aab3667708ec9333, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -29577,6 +29961,7 @@ GameObject:
   m_Component:
   - component: {fileID: 617177405}
   - component: {fileID: 617177404}
+  - component: {fileID: 617177406}
   m_Layer: 0
   m_Name: Point Light (49)
   m_TagString: Untagged
@@ -29664,6 +30049,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &617177406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617177403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &617251995
 GameObject:
   m_ObjectHideFlags: 0
@@ -29779,6 +30187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 620041580}
   - component: {fileID: 620041579}
+  - component: {fileID: 620041581}
   m_Layer: 0
   m_Name: Point Light (21)
   m_TagString: Untagged
@@ -29866,6 +30275,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &620041581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620041578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &620955462
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33504,7 +33936,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 4ff00fe62aa43fb428a1ad796490965a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -33612,7 +34044,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 78369f0d2d50c0441bbba1d022319d48, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -35021,6 +35453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 710184176}
   - component: {fileID: 710184175}
+  - component: {fileID: 710184177}
   m_Layer: 0
   m_Name: Point Light (50)
   m_TagString: Untagged
@@ -35108,6 +35541,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &710184177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710184174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &711872417
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35297,6 +35753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 713634308}
   - component: {fileID: 713634307}
+  - component: {fileID: 713634309}
   m_Layer: 0
   m_Name: Point Light (3)
   m_TagString: Untagged
@@ -35384,6 +35841,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &713634309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713634306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &714835993
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36080,7 +36560,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 22af42517711a2a498823f5b8a587542, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -36902,6 +37382,7 @@ GameObject:
   m_Component:
   - component: {fileID: 743802044}
   - component: {fileID: 743802045}
+  - component: {fileID: 743802046}
   m_Layer: 0
   m_Name: Point Light (1)
   m_TagString: Untagged
@@ -36989,6 +37470,29 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &743802046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 743802043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &745092600
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -37363,7 +37867,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 8da58e9736ccd4048a7c87921e8bc649, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38134,7 +38638,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 5b58b1248dc77e9429a2832bd796a0c0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -38943,7 +39447,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: f2d27a1c946d7984c9ba2f05a7a27947, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -39738,6 +40242,7 @@ GameObject:
   m_Component:
   - component: {fileID: 807858218}
   - component: {fileID: 807858217}
+  - component: {fileID: 807858219}
   m_Layer: 0
   m_Name: Point Light (13)
   m_TagString: Untagged
@@ -39825,6 +40330,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &807858219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 807858216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &810078478
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42070,6 +42598,7 @@ GameObject:
   m_Component:
   - component: {fileID: 854929047}
   - component: {fileID: 854929046}
+  - component: {fileID: 854929048}
   m_Layer: 0
   m_Name: Point Light (11)
   m_TagString: Untagged
@@ -42157,6 +42686,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &854929048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 854929045}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &858615320
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42621,7 +43173,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 18affe55aa2270841a79cf953b7281f4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -43856,6 +44408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 887987216}
   - component: {fileID: 887987215}
+  - component: {fileID: 887987217}
   m_Layer: 0
   m_Name: Point Light (12)
   m_TagString: Untagged
@@ -43943,6 +44496,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &887987217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 887987214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &890201453
 GameObject:
   m_ObjectHideFlags: 0
@@ -44136,6 +44712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 894405264}
   - component: {fileID: 894405263}
+  - component: {fileID: 894405265}
   m_Layer: 0
   m_Name: Point Light (22)
   m_TagString: Untagged
@@ -44223,6 +44800,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 176.899, y: 180, z: 0}
+--- !u!114 &894405265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 894405262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &894483686
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44529,6 +45129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 897102269}
   - component: {fileID: 897102268}
+  - component: {fileID: 897102270}
   m_Layer: 0
   m_Name: Point Light (35)
   m_TagString: Untagged
@@ -44616,6 +45217,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &897102270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897102267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &897692743
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44975,7 +45599,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: a3dc9c22819b152418dae2e0d40eeeef, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45625,7 +46249,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &914601457 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 9027060762515830505, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6100831814900944802, guid: 62fb627048a415f4a8ae87282f8bd836, type: 3}
   m_PrefabInstance: {fileID: 992538015}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &915144787
@@ -46602,7 +47226,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 019f0dcb1addb65489f9eac76d96e2ed, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -49992,7 +50616,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: a67eda47b862e7b4baf9eaf607e70414, type: 3}
 --- !u!4 &996524862 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 2143564542532025578, guid: a67eda47b862e7b4baf9eaf607e70414, type: 3}
+  m_CorrespondingSourceObject: {fileID: 831507087788245438, guid: a67eda47b862e7b4baf9eaf607e70414, type: 3}
   m_PrefabInstance: {fileID: 996524861}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &997758439
@@ -50671,6 +51295,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1018344194}
   - component: {fileID: 1018344195}
+  - component: {fileID: 1018344196}
   m_Layer: 0
   m_Name: Point Light (2)
   m_TagString: Untagged
@@ -50758,6 +51383,29 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &1018344196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018344193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1019886866
 GameObject:
   m_ObjectHideFlags: 0
@@ -50821,7 +51469,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 63ac26e760460e7479a0a10bb32a594a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -51281,6 +51929,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1029133463}
   - component: {fileID: 1029133462}
+  - component: {fileID: 1029133464}
   m_Layer: 0
   m_Name: Point Light (33)
   m_TagString: Untagged
@@ -51368,6 +52017,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1029133464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029133461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1029853274
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -51968,7 +52640,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 06361c57adae9d6459d11e4336e5716a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -52869,7 +53541,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 3f6faea4e1e62844b8fc93ca52a34b3d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53113,7 +53785,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: d398c5e456af6db4abcacaefea3971e6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53505,7 +54177,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 3664ad0d19153bf40abdd868f91d362e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -53613,7 +54285,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: bd96168e99d6674499b7cc9371c2409c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -54032,7 +54704,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 2fd4a338088f1c547bee5127c069801b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -56040,6 +56712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1141131086}
   - component: {fileID: 1141131085}
+  - component: {fileID: 1141131087}
   m_Layer: 0
   m_Name: Point Light (20)
   m_TagString: Untagged
@@ -56127,6 +56800,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1141131087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1141131084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1142353526
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56739,7 +57435,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 5ba78a16f52b82d458d6737a526ec88a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -56868,6 +57564,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1152823692}
   - component: {fileID: 1152823691}
+  - component: {fileID: 1152823693}
   m_Layer: 0
   m_Name: Point Light (5)
   m_TagString: Untagged
@@ -56955,6 +57652,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1152823693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1152823690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1155336927
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57561,6 +58281,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1165749701}
   - component: {fileID: 1165749700}
+  - component: {fileID: 1165749702}
   m_Layer: 0
   m_Name: Point Light (45)
   m_TagString: Untagged
@@ -57648,6 +58369,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1165749702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1165749699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1166160644
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57735,6 +58479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166183681}
   - component: {fileID: 1166183680}
+  - component: {fileID: 1166183682}
   m_Layer: 0
   m_Name: Point Light (34)
   m_TagString: Untagged
@@ -57822,6 +58567,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1166183682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1166183679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1166277932
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -58276,6 +59044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1170248059}
   - component: {fileID: 1170248058}
+  - component: {fileID: 1170248060}
   m_Layer: 0
   m_Name: Point Light (17)
   m_TagString: Untagged
@@ -58363,6 +59132,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1170248060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170248057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1171171638
 GameObject:
   m_ObjectHideFlags: 0
@@ -59174,7 +59966,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: fcacbcb412ecbba4a9506f7d3e01d9a3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -60215,6 +61007,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1213613285}
   - component: {fileID: 1213613284}
+  - component: {fileID: 1213613286}
   m_Layer: 0
   m_Name: Point Light (4)
   m_TagString: Untagged
@@ -60302,6 +61095,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1213613286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1213613283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1216987903
 GameObject:
   m_ObjectHideFlags: 0
@@ -60312,6 +61128,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1216987905}
   - component: {fileID: 1216987904}
+  - component: {fileID: 1216987906}
   m_Layer: 0
   m_Name: Point Light (8)
   m_TagString: Untagged
@@ -60399,6 +61216,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1216987906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1216987903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1222203940
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63764,7 +64604,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 13d959f1ce634314ea3b38c9ae3920e8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -63893,6 +64733,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1317677934}
   - component: {fileID: 1317677933}
+  - component: {fileID: 1317677935}
   m_Layer: 0
   m_Name: Point Light (38)
   m_TagString: Untagged
@@ -63980,6 +64821,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1317677935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1317677932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1319702086
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -64508,6 +65372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1335021583}
   - component: {fileID: 1335021582}
+  - component: {fileID: 1335021584}
   m_Layer: 0
   m_Name: Point Light (26)
   m_TagString: Untagged
@@ -64595,6 +65460,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1335021584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1335021581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1336674160
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -64747,7 +65635,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 37014cdaffaf9034596b80e84c31e7f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -65759,7 +66647,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 113c7e191bf121c4084153e44d95f069, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -66658,6 +67546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1376476220}
   - component: {fileID: 1376476219}
+  - component: {fileID: 1376476221}
   m_Layer: 0
   m_Name: Point Light (24)
   m_TagString: Untagged
@@ -66745,6 +67634,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+--- !u!114 &1376476221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376476218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1380463683
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67268,7 +68180,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 15424ec50cda6674cbf5a0db93f6328f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -67569,6 +68481,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1401188812}
   - component: {fileID: 1401188811}
+  - component: {fileID: 1401188813}
   m_Layer: 0
   m_Name: Point Light (40)
   m_TagString: Untagged
@@ -67656,6 +68569,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1401188813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1401188810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1401451964
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -68638,7 +69574,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 79486fc8e650f10448edb8243425908c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -70728,7 +71664,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 7134d824e9fecf24eafc08c56a092fc1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -71007,7 +71943,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 9e8c9f5365457e94daf7652ac42fc625, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -71400,7 +72336,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: f2ebd7615332c114385bc9c490fd3f7b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -72069,7 +73005,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 992ea80ba1292bf4dbf9f72b8635b299, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -73487,6 +74423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1528053459}
   - component: {fileID: 1528053458}
+  - component: {fileID: 1528053460}
   m_Layer: 0
   m_Name: Point Light (44)
   m_TagString: Untagged
@@ -73574,6 +74511,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 87.871, y: -43.522, z: 46.458}
+--- !u!114 &1528053460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528053457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1529445910
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74100,7 +75060,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 8e073a0696448d14b853394dfce33dd9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -74258,6 +75218,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1537350794}
   - component: {fileID: 1537350793}
+  - component: {fileID: 1537350795}
   m_Layer: 0
   m_Name: Point Light (47)
   m_TagString: Untagged
@@ -74345,6 +75306,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1537350795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1537350792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1539752335
 GameObject:
   m_ObjectHideFlags: 0
@@ -74865,7 +75849,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 31e8e8ce845e8dd46949015606d81e24, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -76593,6 +77577,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1577370921}
   - component: {fileID: 1577370920}
+  - component: {fileID: 1577370922}
   m_Layer: 0
   m_Name: Point Light (36)
   m_TagString: Untagged
@@ -76680,6 +77665,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1577370922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1577370919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1577700321
 GameObject:
   m_ObjectHideFlags: 0
@@ -76690,6 +77698,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1577700323}
   - component: {fileID: 1577700322}
+  - component: {fileID: 1577700324}
   m_Layer: 0
   m_Name: Point Light (28)
   m_TagString: Untagged
@@ -76777,6 +77786,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1577700324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1577700321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1580088610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -77235,6 +78267,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1587646888}
   - component: {fileID: 1587646887}
+  - component: {fileID: 1587646889}
   m_Layer: 0
   m_Name: Point Light (32)
   m_TagString: Untagged
@@ -77322,6 +78355,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 140135482}
   m_LocalEulerAnglesHint: {x: 86.969, y: -90, z: 0}
+--- !u!114 &1587646889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1587646886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1587732891
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -77700,7 +78756,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: c8eed756f9c1fb1478a13bb0957dd1e0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -78110,6 +79166,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1608129184}
   - component: {fileID: 1608129183}
+  - component: {fileID: 1608129185}
   m_Layer: 0
   m_Name: Point Light (31)
   m_TagString: Untagged
@@ -78197,6 +79254,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1608129185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608129182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1609551026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -78704,7 +79784,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 8fe0bdfc2ee7e454dadebd65572c2e44, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -80050,7 +81130,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: a384fd4c881828c43bf7e98b6883d7ef, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -81337,7 +82417,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 64302a7e3f837c745ab964052c1e10fc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -81535,7 +82615,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 66426d5be5935ab4a9deee6e85c6d37d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -82581,7 +83661,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: de6fc36be5360ad40898dbb7e44b21c2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84594,7 +85674,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 7320485bfee2ff54ca2f014f79e9b665, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85597,7 +86677,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: da297e10a6b54e24ab767617071a34d2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85810,7 +86890,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 963123077b1408240b2e77ffe92df52a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85865,6 +86945,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1779131154}
   - component: {fileID: 1779131153}
+  - component: {fileID: 1779131155}
   m_Layer: 0
   m_Name: Point Light (27)
   m_TagString: Untagged
@@ -85952,6 +87033,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1779131155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1779131152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1780539543
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -86317,7 +87421,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 527527ce20597014d80594ef63950a66, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -86433,7 +87537,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: b82404da643205a478465c278c362fe3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -86562,6 +87666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1790541155}
   - component: {fileID: 1790541154}
+  - component: {fileID: 1790541156}
   m_Layer: 0
   m_Name: Point Light (30)
   m_TagString: Untagged
@@ -86649,6 +87754,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1790541156
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790541153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1792112017
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -89070,7 +90198,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: b8f293b3c69850544a777d8ed031cabc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -89579,7 +90707,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 93823e1141f341646b130c7d2440abba, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -89933,6 +91061,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1846887401}
   - component: {fileID: 1846887402}
+  - component: {fileID: 1846887403}
   m_Layer: 0
   m_Name: Point Light (2)
   m_TagString: Untagged
@@ -90020,6 +91149,29 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &1846887403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1846887400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1849018376
 GameObject:
   m_ObjectHideFlags: 0
@@ -90083,7 +91235,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: a913bb047045d294b9c5e6e09df84dce, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -90887,7 +92039,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: c21fa01271a9cf748b92bfa28ac88b80, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -91161,6 +92313,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1870736998}
   - component: {fileID: 1870736997}
+  - component: {fileID: 1870736999}
   m_Layer: 0
   m_Name: Point Light (7)
   m_TagString: Untagged
@@ -91248,6 +92401,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 87.871, y: -43.522, z: 46.458}
+--- !u!114 &1870736999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1870736996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1870860246
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -92329,6 +93505,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1898767374}
   - component: {fileID: 1898767373}
+  - component: {fileID: 1898767375}
   m_Layer: 0
   m_Name: Point Light (18)
   m_TagString: Untagged
@@ -92416,6 +93593,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1898767375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1898767372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1901762559
 GameObject:
   m_ObjectHideFlags: 0
@@ -92584,7 +93784,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 617516b0d75aae84194ad20b484f8a70, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -93373,7 +94573,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 472c4ceb9d7a47f47abe6e46857ba2b2, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -94385,6 +95585,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1930161628}
   - component: {fileID: 1930161627}
+  - component: {fileID: 1930161629}
   m_Layer: 0
   m_Name: Point Light (6)
   m_TagString: Untagged
@@ -94472,6 +95673,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1930161629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1930161626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &1933492828
 GameObject:
   m_ObjectHideFlags: 0
@@ -95520,6 +96744,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1953414197}
   - component: {fileID: 1953414196}
+  - component: {fileID: 1953414198}
   m_Layer: 0
   m_Name: Point Light (48)
   m_TagString: Untagged
@@ -95607,6 +96832,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1953414198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1953414195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &1955279081
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -96087,7 +97335,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 84a3d69b83bb6414eaa39e240e16432b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -98523,7 +99771,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: 7a6000773eb196a48bff0bd8fa16a005, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -99698,7 +100946,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 2c39e543b940a614c9372a460751d7ce, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -100719,6 +101967,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2068434137}
   - component: {fileID: 2068434136}
+  - component: {fileID: 2068434138}
   m_Layer: 0
   m_Name: Point Light (16)
   m_TagString: Untagged
@@ -100806,6 +102055,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2138221776}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &2068434138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068434135}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1001 &2068456281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -101652,7 +102924,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: d51959ecd29c945418aa7319f4ebe4b0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -102083,7 +103355,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: d7546ac0426764842aa260afcc8f40f8, type: 2}
+  - {fileID: 2100000, guid: 9940246dfda7c66439a5ae1f4898220c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -104164,7 +105436,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6466ad99da343264196df168136614b1, type: 2}
+  - {fileID: 2100000, guid: dd5b074479d9b454888cc919a9ff1b1d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
